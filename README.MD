@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/Camilan82/prompts-recipe-to-create-a-ebook/blob/main/assets/pessoas%20lendo.jpg"
     width="400"  
 />
 </p>
