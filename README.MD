@@ -31,7 +31,9 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [LeonardoAI](https://leonardo.ai/)
+- [Canva](https://www.canva.com/)
+- [Word](https://www.microsoft.com/en/microsoft-365/word)
 
 ## 🧠 Prompts
 
@@ -40,20 +42,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook que contará a história do menino Heitor em uma incrível aventura passeando pelo céu.                                                        |
+| conteúdo | Utilize o texto a seguir e elabore uma versão simplificada, para ser utilizado em um ebook infantil {REGRAS} Ajuste erros de Português Use linguagem para crianças de até 10 anos, Utilize frases empolgantes |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | a photo of Titor Teruzo, at the top of a tree, holding red balloons, a 2-year-old boy, with baby face, with short, curly brown hair, brown eyes, small nose, short legs, wearing a T-shirt, shorts, sneakers |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo IA
 
 ## 📚 Materiais
 
