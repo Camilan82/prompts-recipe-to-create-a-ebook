@@ -42,15 +42,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook que contará a história do menino Heitor em uma incrível aventura passeando pelo céu.                                                        |
-| conteúdo | Utilize o texto a seguir e elabore uma versão simplificada, para ser utilizado em um ebook infantil {REGRAS} Ajuste erros de Português Use linguagem para crianças de até 10 anos, Utilize frases empolgantes |
+|  título  | Crie um título de um ebook sobre a importância da leitura na vida das pessoas, o título deve ser épico e curto, me liste 5 variações de títulos.                                                        |
+| conteúdo | Faça um texto para ebook , com foco nos benefícios da leitura {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais que incentivem a leitura , sempre deixe um título sugestivo por tópico, Utilize linguagem lúdica |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | a photo of Titor Teruzo, at the top of a tree, holding red balloons, a 2-year-old boy, with baby face, with short, curly brown hair, brown eyes, small nose, short legs, wearing a T-shirt, shorts, sneakers |
+| título | A warm and inviting scene of six individuals from diverse age groups and ethnicities, peacefully engrossed in their favorite books, situated in a cozy and well-lit library or reading nook with plush armchairs and rich wood accents, surrounded by towering bookshelves filled with books of various colors and textures, with a few decorative lamps and plants adding to the ambiance, the readers' facial expressions radiate joy and contentment, with slight smiles and raised eyebrows, their skin tones ranging from porcelain to caramel, one person has a distinctive nose ring and another has a vibrant tattoo on their arm, the atmosphere is tranquil, with soft, warm lighting casting a comforting glow, and the overall mood is one of serenity and happiness. |
 
 ## ✨ Features
 
